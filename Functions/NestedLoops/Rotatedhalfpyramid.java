@@ -1,4 +1,4 @@
-package Nestedloop;
+
 
 public class Rotatedhalfpyramid {
     public static void invertedhalf(int n ){

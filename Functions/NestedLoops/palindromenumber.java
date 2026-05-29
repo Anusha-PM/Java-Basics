@@ -1,4 +1,4 @@
-package Nestedloop;
+
 
 public class palindromenumber {
     public static void palindrome(int n ){

@@ -1,4 +1,4 @@
-public class Practice{
+public class different{
     public static void pattern19(int n) {
         for(int i = 0;i<n;i++){
            for(int j = 0;j<n-i;j++){

@@ -1,4 +1,4 @@
-package Nestedloop;
+
 
 public class numberpyramid {
     public static void numberpyramid(int n){

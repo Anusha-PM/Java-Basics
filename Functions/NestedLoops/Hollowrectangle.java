@@ -1,4 +1,4 @@
-package Nestedloop;
+
 
 public class Hollowrectangle {
     public static void Hollowrectangle(int totalrows,int totalcolumns){

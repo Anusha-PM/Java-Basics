@@ -1,4 +1,4 @@
-package Nestedloop;
+
 
 public class triang01 {
     public static void triang01(int n) {

@@ -1,4 +1,3 @@
-package Nestedloop;
 
 public class invertednumberhalfpyramid {
     public static void halfpyramidwithnumber(int n) {

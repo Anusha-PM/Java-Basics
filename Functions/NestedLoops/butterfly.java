@@ -1,4 +1,3 @@
-package Nestedloop;
 
 public class butterfly {
     public static void butterfly(int n ){

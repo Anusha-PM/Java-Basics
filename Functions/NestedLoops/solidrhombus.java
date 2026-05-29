@@ -1,4 +1,4 @@
-package Nestedloop;
+
 
 public class solidrhombus {
     public static void solidrhombus(int n ){

@@ -13,9 +13,7 @@ public class Prime{
              }
         return true;
         }
-
-
-         
+      
 }
 public static void main(String[] args) {
     System.out.println(primenum(17));
