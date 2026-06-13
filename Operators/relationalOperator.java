@@ -1,4 +1,4 @@
-package Operators;
+
 
 public class relationalOperator {
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package Operators;
+
 
 public class pq5 {
     public static void main(String[] args){
