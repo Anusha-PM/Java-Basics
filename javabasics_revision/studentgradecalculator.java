@@ -1,6 +1,7 @@
-public class studentgradecalculator{
-    import java.util.Scanner;
+ import java.util.Scanner;
 
+public class studentgradecalculator{
+   
 
 
     public static double calculateAverage(int m1, int m2, int m3) {
